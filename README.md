@@ -1,8 +1,23 @@
-### Hi there, I'm Jayden 👋
+
+<p align="center">
+<a href="https://github.com/JaydenBeckwith">
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Jayden+Beckwith;Bioinformatician+%7C+Masters+Student+%7C+Data+Scientist" alt="Typing SVG" />
+</a>
+<br/>
+
+</a>  
+<a href="https://www.linkedin.com/in/jaydenbeckwith/">
+    <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
+</a>
+<a href="mailto:jayden.k.beckwith@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
+</a>
+
+</p>
+
 - 🔭 I’m currently working on bioinformatic and machine learning projects
 - 🌱 I’m in my final semester - Master of Bioinformatics, University of Queensland
 - 👯 I’m looking to collaborate on open source projects
-- 📫 How to reach me: jayden.k.beckwith@gmail.com
 <!--
 **JaydenBeckwith/JaydenBeckwith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
