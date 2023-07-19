@@ -17,7 +17,7 @@
 
 - 🔭 I’m currently working on bioinformatic and machine learning projects
 - 🌱 I’m a graduate - Master of Bioinformatics, University of Queensland
-- 👯 I’m looking to collaborate on open source projects
+
 <!--
 **JaydenBeckwith/JaydenBeckwith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
