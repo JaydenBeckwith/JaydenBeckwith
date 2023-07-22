@@ -13,6 +13,8 @@
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
 </a>
 
+![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
+
 </p>
 
 - 🔭 I’m currently working on bioinformatic and machine learning projects
