@@ -11,14 +11,15 @@
 </a>
 <a href="mailto:jayden.k.beckwith@gmail.com">
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
-    ![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
 </a>
+
 
 </p>
 
 - 🔭 I’m currently working on bioinformatic and machine learning projects
 - 🌱 I’m a graduate - Master of Bioinformatics, University of Queensland
 
+![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
 <!--
 **JaydenBeckwith/JaydenBeckwith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
