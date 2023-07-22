@@ -11,9 +11,8 @@
 </a>
 <a href="mailto:jayden.k.beckwith@gmail.com">
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
+    ![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
 </a>
-
-![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
 
 </p>
 
