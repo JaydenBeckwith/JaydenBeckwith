@@ -16,9 +16,6 @@
 
 </p>
 
-- 🔭 I’m currently working on bioinformatic and machine learning projects
-- 🌱 I’m a graduate - Master of Bioinformatics, University of Queensland
-
 ![](https://komarev.com/ghpvc/?username=JaydenBeckwith&color=green)
 <!--
 **JaydenBeckwith/JaydenBeckwith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
