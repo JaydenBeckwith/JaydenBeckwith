@@ -1,7 +1,7 @@
 
 <p align="center">
 <a href="https://github.com/JaydenBeckwith">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2500&pause=100&multiline=true&width=500&height=80&lines=Jayden+Beckwith;Bioinformatician+%7C+Master's+Graduate+%7C+Data+Scientist" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2500&pause=100&multiline=true&width=500&height=80&lines=Jayden+Beckwith;Bioinformatician+%7C+Data+Scientist" alt="Typing SVG" />
 </a>
 <br/>
 
